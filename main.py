@@ -1,1 +1,2 @@
 print('тест')
+print('test')
