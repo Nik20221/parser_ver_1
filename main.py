@@ -182,4 +182,5 @@ def get_id():
         print("количество ставок: " + str(lis))
         print("количество ошибок с json 3: " + str(lis_1))
 
+
 get_id()
